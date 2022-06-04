@@ -1,0 +1,33 @@
+{
+    "empresas": [
+    {
+      "name":  "Nome da empresa 1",
+      "numbeEmployees": 10,
+      "country": "Brasil",
+      "category": "Setor de tecnologia"
+    },
+    {
+      "name":  "Nome da empresa 2",
+      "numbeEmployees": 50,
+      "country": "Brasil",
+      "category": "Setor agrícula"
+    },
+    {
+        "name":  "Nome da empresa 3",
+        "numbeEmployees": 20,
+        "country": "Brasil",
+        "category": "Setor agrícula"
+      }, {
+        "name":  "Nome da empresa 4",
+        "numbeEmployees": 40,
+        "country": "Brasil",
+        "category": "Setor agrícula"
+      },
+      {
+        "name":  "Nome da empresa 5",
+        "numbeEmployees": 90,
+        "country": "Brasil",
+        "category": "Setor agrícula"
+      }
+  ]
+}
